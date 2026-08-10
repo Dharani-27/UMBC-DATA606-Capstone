@@ -1,4 +1,4 @@
-# Indoor Human Presence Detection with a Smartphone Ultrasonic Sonar
+# Real-Time Smartphone-Based Human Detection
 
 UMBC DATA 606 capstone.
 
